@@ -1,16 +1,15 @@
 #  Building a PC
 ## Contents
-### [Introduction](#introduction)
-### [Gathering Parts](#Gathering-Parts)
-### [Assembling the Parts](l#Assembling-the-Parts)
-### [Installing the Operating System](#Installing-the-Operating-System)
-### [Finishing Touches](#Finishing-Touches)
-
-## <a name="Introduction"></a> Introduction
+### [Introduction](https://github.com/JakeWoratzeck/Digital-Concept-Tutorial#introduction)
+### [Gathering Parts](https://github.com/JakeWoratzeck/Digital-Concept-Tutorial#Gathering-Parts)
+### [Assembling the Parts](https://github.com/JakeWoratzeck/Digital-Concept-Tutorial#Assembling-the-Parts)
+### [Installing the Operating System](https://github.com/JakeWoratzeck/Digital-Concept-Tutorial#Installing-the-Operating-System)
+### [Finishing Touches](https://github.com/JakeWoratzeck/Digital-Concept-Tutorial#Finishing-Touches)
+## Introduction
 Building a PC gives you much more control over the final specs and cost of a computer than if you were to purchase one already made from a retailer. This tutorial will serve as a guide on the basics of building a computer, beginning with what parts are needed and ending with updating the computer. For this tutorial, I will be focused on building a Windows based machine.
 This tutorial is aimed at people who are familiar with PCs but have never built their own or who might not be familiar with computing hardware. Because of this, the tutorial will only be providing high-level explanations of the hardware as getting more technical can be confusing for first-time PC builders. I will also be assuming that the PC will be running at stock conditions as overclocking can make a build much more complicated.
 
-## <a name="Gathering-Parts"></a>Gathering Parts
+## Gathering Parts
 ### Getting Started
 To get started, I would reccomend going to [PC Part Picker](https://pcpartpicker.com/list/). This website will help you browse all of the available hardware and makes it easy to compare different parts. It also can help you keep track of all your hardware and ensure that you are not forgetting anything essential. It also helps keep track of the total cost of the build and links to where you can actually purchase a part, most often Newegg, a popular technology retailer. The site will also inform you if any of the parts on your list will be incompatible with eachother.
 ### Case
@@ -93,7 +92,7 @@ Below is a link to Microsoft's support page detailing how to create a Windows In
 
 [Create installation media for Windows](https://support.microsoft.com/en-us/help/15088/windows-10-create-installation-media)
 
-## <a name="Assembling-the-Parts"></a> Assembling the Parts
+## Assembling the Parts
 As the parts you have chosen will vary, it is near impossible to provide exact instructions for assembling all of your parts. Some things to note:
 1. Ensure you stay grounded and avoid any static while working with the parts. Discharging the static onto the parts (especially the motherboard) could damage the hardware and prevent it from working.
 2. Do not have any power flowing to the system while you are plugging in or unplugging any parts as this could also damage the parts
@@ -106,10 +105,10 @@ Below I have linked two resources for assembling the PC hardware as they do an e
 
 [How to Build a PC in 30 minutes with EasyPCBuilder!](https://www.youtube.com/watch?v=0bUghCx9iso)
 
-## <a name="Installing-the-Operating-System"></a>Installing the Operating System
+## Installing the Operating System
 Once all of the parts have been assembled, it is time to finally boot up the new PC, but before you can do that, you have to install Windows. To do so, plug the Windows Installation USB into one of the USB ports on your motherboard. On first boot, the PC will likely go directly into the BIOS. The layout of the BIOS will vary drastically between motherboards but you should search for an option to boot to a USB flash drive, or simply find an exit button. As there is no installation of Windows on your HDD or SSD, the system should boot to the flashdrive where you installed Windows. If everything goes correctly, you should be met by a Windows installation screen where you can follow the onscreen directions to install Windows.
 
-## <a name="Finishing-Touches"></a>Finishing Touches
+## Finishing Touches
 
 Once you have successfully, installed Windows, you are essentially done! It is a good idea to check for Windows updates to ensure that you are running the most recent version of the operating system. Also important is to update all of the drivers for the components on your PC. You can either search the web for drivers for each individual part, or use a driver installation tool to make the process easier. I have linked one such program below. It has a free trial for its premium version, which should be more than sufficient for installing all the drivers to get your system up to date. 
 
