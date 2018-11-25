@@ -1,7 +1,7 @@
 #  Building a PC
 
 ## Introduction
-### Building a PC gives you much more control over the final specs and cost of a computer than if you were to purchase one already made from a retailer. This tutorial will serve as a guide on the basics of building a computer, beginning with what parts are needed and ending with updating the computer. For this tutorial, I will be focused on building a Windows based machine.
+Building a PC gives you much more control over the final specs and cost of a computer than if you were to purchase one already made from a retailer. This tutorial will serve as a guide on the basics of building a computer, beginning with what parts are needed and ending with updating the computer. For this tutorial, I will be focused on building a Windows based machine.
 ### This tutorial is aimed at people who are familiar with PCs but have never built their own or who might not be familiar with computing hardware. Because of this, the tutorial will only be providing high-level explanations of the hardware as getting more technical can be confusing for first-time PC builders. I will also be assuming that the PC will be running at stock conditions as overclocking can make a build much more complicated.
 
 ## Gathering Parts
