@@ -5,7 +5,7 @@ Building a PC gives you much more control over the final specs and cost of a com
 This tutorial is aimed at people who are familiar with PCs but have never built their own or who might not be familiar with computing hardware. Because of this, the tutorial will only be providing high-level explanations of the hardware as getting more technical can be confusing for first-time PC builders. I will also be assuming that the PC will be running at stock conditions as overclocking can make a build much more complicated.
 
 ## Gathering Parts
-### Where to buy parts
+### Getting Started
 To get started, I would reccomend going to [PC Part Picker](https://pcpartpicker.com/list/). This website will help you browse all of the available hardware and makes it easy to compare different parts. It also can help you keep track of all your hardware and ensure that you are not forgetting anything essential. It also helps keep track of the total cost of the build and links to where you can actually purchase a part, most often Newegg, a popular technology retailer. The site will also inform you if any of the parts on your list will be incompatible with eachother.
 ### Case
 Cases (sometimes called a chassis, towers, system units, or cabinets) come in a variety of sizes and shapes and is a good place to start as it can affect what hardware you will be able to fit inside. There are several things to consider when purchasing a case: 
