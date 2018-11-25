@@ -96,9 +96,9 @@ As the parts you have chosen will vary, it is near impossible to provide exact i
 
 Below I have linked two resources for assembling the PC hardware as they do an excellent job walking through the process and they have been useful to me in the past when building a PC. There is a both a text guide (with pictures) and a video guide depending on your preference.
 
-[Step-by-step Text Guide for Assembling the PC](https://www.howtogeek.com/howto/uncategorized/building-a-new-computer-part-2-putting-it-together/)
+[How to Build Your Own Computer (Text)](https://www.howtogeek.com/howto/uncategorized/building-a-new-computer-part-2-putting-it-together/)
 
-[Video Guide for Assembling Parts](https://www.youtube.com/watch?v=0bUghCx9iso)
+[How to Build a PC in 30 minutes with EasyPCBuilder!](https://www.youtube.com/watch?v=0bUghCx9iso)
 
 ## Installing the Operating System
 Once all of the parts have been assembled, it is time to finally boot up the new PC, but before you can do that, you have to install Windows. To do so, plug the Windows Installation USB into one of the USB ports on your motherboard. On first boot, the PC will likely go directly into the BIOS. The layout of the BIOS will vary drastically between motherboards but you should search for an option to boot to a USB flash drive, or simply find an exit button. As there is no installation of Windows on your HDD or SSD, the system should boot to the flashdrive where you installed Windows. If everything goes correctly, you should be met by a Windows installation screen where you can follow the onscreen directions to install Windows.
