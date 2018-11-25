@@ -1,4 +1,10 @@
 #  Building a PC
+## Contents
+### [Introduction](#introduction)
+### [Gathering Parts](https://github.com/JakeWoratzeck/Digital-Concept-Tutorial#Gathering-Parts)
+### [Assembling the Parts](l#Assembling-the-Parts)
+### [Installing the Operating System](#Installing-the-Operating-System)
+### [Finishing Touches](#Finishing-Touches)
 
 ## Introduction
 Building a PC gives you much more control over the final specs and cost of a computer than if you were to purchase one already made from a retailer. This tutorial will serve as a guide on the basics of building a computer, beginning with what parts are needed and ending with updating the computer. For this tutorial, I will be focused on building a Windows based machine.
