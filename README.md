@@ -1,7 +1,18 @@
 #  Building a PC
 ## Contents
-### [Introduction](https://github.com/JakeWoratzeck/Digital-Concept-Tutorial#introduction)
+### [Introduction](#introduction-1)
 ### [Gathering Parts](#gathering-parts-1)
+[Getting Started](#getting-started)
+[Case](#case)
+[CPU](#cpu)
+[Motherboard](#motherboard)
+[Video Card](#video-cards)
+[RAM](#ram)
+[Storage](#storage)
+[Power Supply Unit](#power-supply-unit)
+[Monitor](#monitor)
+[Periphreals](#periphreals)
+[Operating System](#operating-system)
 ### [Assembling the Parts](#assembling-the-parts-1)
 ### [Installing the Operating System](#installing-the-operating-system-1)
 ### [Finishing Touches](#finishing-touches-1)
@@ -63,7 +74,7 @@ After determining which type of RAM you should purchase, next is how much you ne
 Storage is an important aspect of the PC as it is what will store both the operating system and all of your programs and documents. There are two major types of storage on the market: Hard Disk Drives (HDD) and Solid State Drives (SSD). HDDs has a disk that physically spins when it reads and writes to it. An SSD has no moving parts within it and instead uses integrated circuit assemblies to persistantly store data. Because of this, SSDs tend to be much faster than HDDs, but they are also significantly more expensive for the same amount of storage space. 
 
 After choosing a type of storage device, it is important to select an appropriate size for the device. Depending on what you will be using the device for will determine what size disk you should purchase.
-### PSU
+### Power Supply Unit
 The final part to choose for the internal of the PC build is the Power Supply Unit (PSU). This is the part that will deliver electrical power to all of the other internal parts. Because of this, it is important to get a power supply that will be able to sufficiently power all of the parts you have chosen. The GPU and the CPU are the most power intensive parts of a PC. Looking at the required power for these two should be able to give you a decent idea of what wattage power supply you should purchase. Having a power supply that can provide more power than you need will not hurt the other parts, however, so overestimating your power needs is often a good idea. 
 ### Monitor
 Something important not to forget is to purchase a monitor as well. There are a wide variety of monitors to choose from with widely varying specs and equally varying price points. 
