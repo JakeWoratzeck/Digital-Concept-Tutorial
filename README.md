@@ -3,16 +3,27 @@
 ### [Introduction](#introduction-1)
 ### [Gathering Parts](#gathering-parts-1)
 [Getting Started](#getting-started)
+
 [Case](#case)
+
 [CPU](#cpu)
+
 [Motherboard](#motherboard)
+
 [Video Card](#video-cards)
+
 [RAM](#ram)
+
 [Storage](#storage)
+
 [Power Supply Unit](#power-supply-unit)
+
 [Monitor](#monitor)
+
 [Periphreals](#periphreals)
+
 [Operating System](#operating-system)
+
 ### [Assembling the Parts](#assembling-the-parts-1)
 ### [Installing the Operating System](#installing-the-operating-system-1)
 ### [Finishing Touches](#finishing-touches-1)
