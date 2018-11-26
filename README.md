@@ -46,7 +46,7 @@ Oftentimes, a case will be classified by the size of motherboard it can fit. The
 Cases can also be referred to by their physical size in a different way. Cases labeled as "small-form-factor" typically are quite small and are usually designed to fit miniITX motherboards. A "desktop" case is often smaller and designed to lay horizontally on a desktop, often so a monitor can sit atop it. Conventional vertical desktop towers are classified in 3 sizes: mini-towers, mid-towers, and full towers. These sizes do not represent exact 
 measurements, so two mid-sized towers may vary in size.
 
-![Case Comparison](Images/Case-Comparison)
+![Case Comparison](Images/Case-Comparison.jpg)
 
 Airflow is also important to consider when looking at cases as having the hardware inside it overheat can cause damage to the system. To remedy this, fans are typically attached to the case to circulate air in and out of it. Oftentime, a case will include several fans with it, but if it does not, you will want to pick up a few to protect your system from heating issues.
 
@@ -56,7 +56,7 @@ Probably the most important piece of hardware to choose is the Central Processin
 
 Presently, there are two major companies producing CPUs: Intel and AMD. In the past, Intel has dominated the higher-end CPU market, but recently AMD has begun to release products offering strong competition to Intel. Because of this, there are now more options for you to consider than previously.
 
-![CPUs](Images/AMD-Intel-CPU)
+![CPUs](Images/AMD-Intel-CPU.jpg)
 
 In terms of processing power, there are two main specifications to look at when selecting a CPU: clock speeds and the number of cores. Having higher clock speeds leads to faster speeds and higher core counts allows for more computations to be done simultaneously. For things like gaming, having faster clock speeds is typically more important that having higher core counts. For other things like video editing or digital modelling, having more cores tends to have a bigger boost to performance than only clock speeds.
 
@@ -78,11 +78,11 @@ After finding a motherboard that your selected CPU will fit into, the next step 
 
 It is also important to choose one that is the appropriate size for your goals. As mentioned previously, powerful hardware tends to be large and bulky so if you plan on using the PC for intensive activities like video editing or gaming, choosing a larger motherboard size would allow you to fit bulkier parts easier.
 
-![Motherboard Comparison](Images/Motherboard-Comparison)
+![Motherboard Comparison](Images/Motherboard-Comparison.png)
 
 ### Video Cards
 
-![GPU](Images/GPU)
+![GPU](Images/GPU.jpeg)
 
 The Video Card, sometimes referred to as a graphics card or a GPU as it houses the Graphics Processing Unit. The GPU will handle the creation of the images to be displayed on the PC's display device. 
 
@@ -98,21 +98,21 @@ Similar to looking at benchmarks for CPUs, [User Benchmark](https://gpu.userbenc
 
 ### RAM
 
-![RAM](Images/RAM-Stick)
+![RAM](Images/RAM-Stick.jpg)
 
 Random Access Memory (RAM), sometimes simply refered to as "memory", is another critical piece of computer hardware. Modern computers virtually all use RAM called Double Data Rate Synchronous Dynamic Random Access Memory (DDR SDRAM). There are a several variations of DDR SDRAM on the market currently. The most recent iteration of DDR SDRAM is called DDR4 SDRAM. DDR3 SDRAM is still relatively common, however. The newer iterations of DDR SDRAM have faster speeds and are more energy efficient. Depending on the CPU and motherboard you chose for your build will determine what type of RAM will be compatible with your system (likely either DDR3 or DDR4), so it is important to ensure what RAM will be compatible with your system. 
 
 After determining which type of RAM you should purchase, next is determining how much you need. For simple tasks like basic office document work or web browsing, 4GB of RAM would likely be sufficient. 8GB is fairly standard for most situations. For more intensive activities like gaming, photo/video editing, or heavy multitasking, 16GB would likely be a better choice. The highest-end machines will often have 32GB of RAM or even more, but these are edge cases and is not necessary for most people.
 ### Storage
 
-![SSD vs HDD](Images/SSD-VS-HDD)
+![SSD vs HDD](Images/SSD-VS-HDD.jpg)
 
 Storage is an important aspect of the PC as it is what will store both the operating system and all of your programs and documents. There are two major types of storage on the market: Hard Disk Drives (HDD) and Solid State Drives (SSD). HDDs have a disk that physically spins when it reads and writes to it. An SSD has no moving parts within it and instead uses integrated circuit assemblies to persistently store data. Because of this, SSDs are much faster than HDDs, but they are also significantly more expensive for the same amount of storage space. 
 
 After choosing a type of storage device that is best for you, it is important to select an appropriate size for the device. Depending on what you will be using the device for will determine what size disk you should purchase.
 ### Power Supply Unit
 
-![PSU](Images/PSU)
+![PSU](Images/PSU.jpg)
 
 The final part to choose for the internals of the PC build is the Power Supply Unit (PSU). This is the part that will deliver electrical power to all of the other internal parts. Because of this, it is important to get a power supply that will be able to sufficiently power all of the parts you have chosen. The GPU and the CPU are the most power intensive parts of a PC. Looking at the required power for these two should be able to give you a decent idea of what wattage power supply you should purchase. 
 
@@ -121,7 +121,7 @@ Note: Having a power supply that can provide more power than you need will not h
 If you are using PC Part Picker, the site will automatically calculate the estimated wattage your computer will need to be properly powered based on what you have chosen in your parts list.
 ### Monitor
 
-![Monitor](Images/Monitor)
+![Monitor](Images/Monitor.jpg)
 
 Something important not to forget is to purchase a monitor as well. There are a wide variety of monitors to choose from with widely varying specs and equally varying price points. 
 
@@ -140,12 +140,12 @@ When selecting a monitor is important to determine what the system will be used 
 
 ### Peripherals
 
-![Mouse and Keyboard](Images/Mouse-Keyboard)
+![Mouse and Keyboard](Images/Mouse-Keyboard.jpg)
 
 Purchasing peripherals will vary wildly from person to person. The most important things to purchase are a mouse and keyboard. Any will do, but oftentimes people will have personal preferences about these. Speakers are another peripherals to consider, but what you purchase will largely be up to your personal needs and preferences.
 ### Operating System
 
-![Windows 10](Images/Windows-10)
+![Windows 10](Images/Windows-10.jp2)
 
 As you will be assembling the PC from the ground up, you will also need to install an operating system to the computer for it to be able to function. For the sake of simplicity, I will assume you are going to be installing Windows. To do so, you will need to purchase a USB flash drive to hold the operating system for installation. It is possible to use DVD instead, but a USB flash drive is much more convenient. 
 
@@ -172,7 +172,7 @@ Below I have linked two resources for assembling the PC hardware as they do an e
 ## Installing the Operating System
 Once all of the parts have been assembled, it is time to finally boot up the new PC, but before you can do that, you have to install Windows. To do so, plug the Windows Installation USB into one of the USB ports on your motherboard. On first boot, the PC will likely go directly into the BIOS. The layout of the BIOS will vary drastically between motherboards but you should search for an option to boot to a USB flash drive, or simply find an exit button. As there is no installation of Windows on your HDD or SSD, the system should boot to the flashdrive where you installed Windows. If everything goes correctly, you should be met by a Windows installation screen where you can follow the onscreen directions to install Windows.
 
-![BIOS Example](Images/BIOS)
+![BIOS Example](Images/BIOS.jpg)
 
 ## Finishing Touches
 
