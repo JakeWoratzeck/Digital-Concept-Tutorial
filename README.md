@@ -2,27 +2,27 @@
 ## Contents
 ### [Introduction](#introduction-1)
 ### [Gathering Parts](#gathering-parts-1)
-    [Getting Started](#getting-started)
+...[Getting Started](#getting-started)
 
-    [Case](#case)
+...[Case](#case)
 
-    [CPU](#cpu)
+...[CPU](#cpu)
 
-    [Motherboard](#motherboard)
+...[Motherboard](#motherboard)
 
-    [Video Card](#video-cards)
+...[Video Card](#video-cards)
 
-    [RAM](#ram)
+...[RAM](#ram)
 
-    [Storage](#storage)
+...[Storage](#storage)
 
-    [Power Supply Unit](#power-supply-unit)
+...[Power Supply Unit](#power-supply-unit)
 
-    [Monitor](#monitor)
+...[Monitor](#monitor)
 
-    [Periphreals](#periphreals)
+...[Periphreals](#periphreals)
 
-    [Operating System](#operating-system)
+...[Operating System](#operating-system)
 
 ### [Assembling the Parts](#assembling-the-parts-1)
 ### [Installing the Operating System](#installing-the-operating-system-1)
