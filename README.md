@@ -172,7 +172,9 @@ Below is a link to Microsoft's support page detailing how to create a Windows In
 After creating the Windows Installation media, plug the Windows Installation USB into one of the USB ports on your motherboard. On first boot, the PC will likely go directly into the BIOS. The layout of the BIOS will vary drastically between motherboards but you should look for a location to set the boot sequence. You will want to set the boot sequence to go to the Windows Installation USB you have created and plugged in first. After setting this, you should search for a location to exit the BIOS. If everything goes correctly, you should be met by a Windows installation screen where you can follow the onscreen directions to install Windows. Pictured below is an example of what a modern BIOS will look like.
 
 Below are some video tutorials for creating the installation media and installing Windows from a USB.
+
 [How to Install Windows 8.1 from USB Guide/Tutorial](https://www.youtube.com/watch?v=NT0KFR09Svc)
+
 [How to Install Windows 10 from a USB Flash Drive](https://www.youtube.com/watch?v=SKbR6XT7fcA)
 
 ## Finishing Touches
