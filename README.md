@@ -79,7 +79,7 @@ It is also important to choose a motherboard that is the appropriate size for yo
 
 ![Motherboard Comparison](Images/Motherboard-Comparison.png)
 
-### Video Cards
+### Video Card
 
 ![GPU](Images/GPU.jpeg)
 
