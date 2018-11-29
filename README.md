@@ -144,10 +144,6 @@ When selecting a monitor is important to determine what the system will be used 
 ![Mouse and Keyboard](Images/Mouse-Keyboard.jpg)
 
 Purchasing peripherals will vary wildly from person to person. The most important things to purchase are a mouse and keyboard. Any will do, but oftentimes people will have personal preferences about these. Speakers are another peripheral to consider, but what you purchase will largely be up to your personal needs and preferences.
-### Operating System
-
-![Windows 10](Images/Windows-10.jp2)
-
 
 ## Assembling the Parts
 As the parts you have chosen will vary, it is nearly impossible to provide exact instructions for assembling all of your parts. Some things to note, however, are:
@@ -164,6 +160,8 @@ Below I have linked two resources for assembling the PC hardware as they do an e
 [How to Build a PC in 30 minutes with EasyPCBuilder! (Video)](https://www.youtube.com/watch?v=0bUghCx9iso)
 
 ## Installing the Operating System
+![Windows 10](Images/Windows-10.jp2)
+
 Once all of the parts have been assembled, it is time to finally boot up the new PC, but before you can do that, you have to install an operating system to the computer for it to be functional. For the sake of simplicity, I will assume you are going to be installing Windows. To do so, you will need to purchase a USB flash drive to hold the operating system for installation. It is possible to use a DVD instead, but a USB flash drive is much more convenient. Note that a CD will not work as it will not have enough storage capacity to store the operating system. You do not need to immediately purchase a Windows license, but the operating system will have a number of restrictions until it is activated with a license key.
 
 Below is a link to Microsoft's support page detailing how to create a Windows Installation USB.
