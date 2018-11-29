@@ -11,7 +11,7 @@
 
 * [Motherboard](#motherboard)
 
-* [Video Card](#video-cards)
+* [Video Card](#video-card)
 
 * [RAM](#ram)
 
