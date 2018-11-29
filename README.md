@@ -1,7 +1,10 @@
 #  Building a PC
 ### By Jacob Woratzeck
+Building a PC gives you much more control over the specifications and cost of a computer than if you were to purchase a pre-built one from a retailer. This tutorial will focus mainly on purchasing parts for a PC build and will include links to resources for the actual assembly. This tutorial will be focused on building a Windows based machine. I will also be assuming that the PC will be running at stock conditions as overclocking can make PC building much more complicated.
+
+This tutorial is aimed at people who are familiar with PCs and basic computing concepts but have never built their own computer or who might not be familiar with computing hardware. Because of this, the tutorial will only be providing high-level explanations of the hardware as getting more technical can be confusing for first-time PC builders. 
+
 ## Contents
-### [Introduction](#introduction-1)
 ### [Gathering Parts](#gathering-parts-1)
 * [Getting Started](#getting-started)
 
@@ -26,10 +29,6 @@
 ### [Assembling the Parts](#assembling-the-parts-1)
 ### [Installing the Operating System](#installing-the-operating-system-1)
 ### [Finishing Touches](#finishing-touches-1)
-## Introduction
-Building a PC gives you much more control over the specifications and cost of a computer than if you were to purchase a pre-built one from a retailer. This tutorial will focus mainly on purchasing parts for a PC build and will include links to resources for the actual assembly. This tutorial will be focused on building a Windows based machine. I will also be assuming that the PC will be running at stock conditions as overclocking can make PC building much more complicated.
-
-This tutorial is aimed at people who are familiar with PCs and basic computing concepts but have never built their own computer or who might not be familiar with computing hardware. Because of this, the tutorial will only be providing high-level explanations of the hardware as getting more technical can be confusing for first-time PC builders. 
 
 ## Gathering Parts
 ### Getting Started
