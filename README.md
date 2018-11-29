@@ -1,4 +1,5 @@
 #  Building a PC
+### By Jacob Woratzeck
 ## Contents
 ### [Introduction](#introduction-1)
 ### [Gathering Parts](#gathering-parts-1)
